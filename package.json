@@ -56,7 +56,8 @@
       },
       "dev": {
         "dependsOn": [
-          "remix-validated-form#build"
+          "remix-validated-form#build",
+          "custom-remark-plugin#build"
         ],
         "cache": false
       }
